@@ -54,7 +54,7 @@ ggplot(data = metallica__all, aes(x = valence, y = energy, color=mode )) +
 
 -------------------------------------
 
-This shows how metallicas music should interact with emotions
+This shows how metallicas music should interact with emotions bl
 
 ### Rhythmical analysis of the working from home playlists; is there correlation?
 ```{r}
